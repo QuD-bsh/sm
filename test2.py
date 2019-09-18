@@ -6,3 +6,6 @@ print "don't lose"
 
 
 print "today is 2019/9/17"
+
+
+print "taday is 2019/9/18"
